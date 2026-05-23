@@ -29,4 +29,4 @@ clf.fit(X, Y)
 
 # Saving the model
 import pickle
-pickle.dump(clf, open('penguins_clf.pkl', 'wb'))
+pickle.dump(clf, open('penguins_clf_new.pkl', 'wb'))
