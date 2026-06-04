@@ -225,3 +225,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# streamlit secrets
+.streamlit/secrets.toml
